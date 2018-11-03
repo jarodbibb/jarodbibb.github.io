@@ -46,7 +46,7 @@ body {
 }
 
 .circle-clip {
-	clip-path: circle(160px at center);
+	clip-path: circle(200px at center);
 }
 
 
